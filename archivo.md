@@ -12,3 +12,9 @@ __Bold__
 _Italic_
 
 [click here](https://www.github.com)
+
+'''javascript
+
+console.log('Hola mundo');
+
+'''
