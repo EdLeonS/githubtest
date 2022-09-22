@@ -9,6 +9,6 @@
 
 __Bold__
 
-__Italic__
+_Italic_
 
 [click here](https://www.github.com)
